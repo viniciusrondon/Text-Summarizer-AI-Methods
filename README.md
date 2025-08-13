@@ -20,8 +20,8 @@ The primary goal is to facilitate efficient information extraction from multimed
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-repo/text-summarizer.git
-   cd text-summarizer
+   git clone https://github.com/viniciusrondon/Text-Summarizer-AI-Methods.git
+   cd Text-Summarizer-AI-Methods
    ```
 
 2. **Set Up Virtual Environment** (using uv for dependency management):
